@@ -19,8 +19,8 @@ If there are some changes, monitor will send notifications to the local computer
   `pip install -r requirements.txt`
 * Install [pushbullet](https://www.pushbullet.com/) on PC and phone, then sign in or sign up.  
 * Create the access token at the pushbullet.This access token is a api key for socket connection.
-<div align=center><img src="imgs/1.PNG"/></div>
-<div align=center><img src="imgs/2.PNG"/></div>
+<div align=center><img src="imgs/1.png"/></div>
+<div align=center><img src="imgs/2.png"/></div>
 
 ### Usage
 What the only thing you need to do is setting the correct parameters:
@@ -34,9 +34,9 @@ if __name__=='__main__':
     monitor.monitor()# start monitoring.......
 ```
 ### Demo
-<div align=center><img src="imgs/3.PNG"/></div>
-<div align=center><img src="imgs/4.PNG"/></div>
-<div align=center><img src="imgs/5.PNG"/></div>
+<div align=center><img src="imgs/3.png"/></div>
+<div align=center><img src="imgs/4.png"/></div>
+<div align=center><img src="imgs/5.png"/></div>
 
 ## Author
 * **Chris Li** - *all work*
